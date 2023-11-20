@@ -1,0 +1,8 @@
+D:\nanda\nilai\nilai\bin\Debug\nilai.exe.config
+D:\nanda\nilai\nilai\bin\Debug\nilai.exe
+D:\nanda\nilai\nilai\bin\Debug\nilai.pdb
+D:\nanda\nilai\nilai\obj\Debug\nilai.csproj.AssemblyReference.cache
+D:\nanda\nilai\nilai\obj\Debug\nilai.csproj.SuggestedBindingRedirects.cache
+D:\nanda\nilai\nilai\obj\Debug\nilai.csproj.CoreCompileInputs.cache
+D:\nanda\nilai\nilai\obj\Debug\nilai.exe
+D:\nanda\nilai\nilai\obj\Debug\nilai.pdb
